@@ -150,7 +150,7 @@ form input[type='submit']:hover,
   font-weight: bold;
   color: #f6982d;
   margin-right: 2em;
-}
+} 
 
 .dashboard .actions {
   display: flex;
@@ -160,6 +160,10 @@ form input[type='submit']:hover,
   color: #fff;
   border-color: #fff;
   margin: 0 0.5em;
+}
+
+.dashboard p a {
+  color: #f6982d;
 }
 
 /* CREATE / EDIT FORM */
